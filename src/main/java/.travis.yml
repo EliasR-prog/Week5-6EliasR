@@ -12,7 +12,7 @@ cache:
     - $HOME/.gradle/wrapper/
 deploy:
   provider: heroku
-  api_key: use-your-own-key-here
+  api_key: e25c5d0a-9903-4262-a33e-c69cf10a4f04
   app: week5-6eliasr
   skip_cleanup: true
 
